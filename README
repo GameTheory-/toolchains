@@ -2,7 +2,7 @@
 toolchains
 ==========
 
-git clone git clone https://github.com/STS-Dev-Team/arm-eabi-4.4.3
+git clone https://github.com/STS-Dev-Team/arm-eabi-4.4.3
 
 git clone https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6
 
